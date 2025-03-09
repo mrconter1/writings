@@ -13,12 +13,12 @@ All collected data will be stored in `data.json` in the following format:
     {
       "date_of_interview": "YYYY-MM-DD",
       "first_name": "Name",
-      "birth_year": YYYY,
+      "birth_year": "YYYY",
       "gender": "Gender",
       "occupation_profession": "Occupation",
       "education": "Education",
       "response": "Detailed response...",
-      "years_prediction": N
+      "years_prediction": "N"
     }
   ]
 }
