@@ -15,4 +15,10 @@ All collected data will be stored in `data.json`.
 
 ## Forecasting Question
 
-> "How long do you think it will be until we live in a society where it does not surprise you to see a humanoid robot intuitively performing household tasks such as making coffee or watering plants?" 
+When do you think you'll reach a point where seeing a humanoid robot performing everyday tasks in a regular home no longer surprises you, and you naturally expect it to succeed when you ask it to do things like the following:
+
+- [Example 1]
+- [Example 2]
+- [Example 3]
+- [Example 4]
+- [Example 5] 
