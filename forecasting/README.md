@@ -25,4 +25,5 @@ How many years do you think it will take until you reach a point where seeing a 
 5. "Can you fold my clean pile of laundry?"
 6. "I have some frozen salmon in the fridge, can you make a dish for me using that?"
 7. "Can you change my bedclothes?"
-8. "Can you tune my guitar?" 
+8. "Can you tune my guitar?"
+9. "Can you vacuum clean? (where you have to do it manually)" 
