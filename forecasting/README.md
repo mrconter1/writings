@@ -4,15 +4,25 @@ This project aims to forecast societal expectations regarding humanoid robots pe
 
 ## Methodology
 
-Data will be collected through personal or phone interviews conducted one-on-one with each participant. Each participant will provide:
-- Date of interview
-- Birth year
-- First name
-- Occupation/Profession
-- Education
-- Gender
+Data will be collected through personal or phone interviews conducted one-on-one with each participant. 
 
-All collected data will be stored in `data.json`.
+All collected data will be stored in `data.json` in the following format:
+```json
+{
+  "participants": [
+    {
+      "date_of_interview": "YYYY-MM-DD",
+      "first_name": "Name",
+      "birth_year": YYYY,
+      "gender": "Gender",
+      "occupation_profession": "Occupation",
+      "education": "Education",
+      "response": "Detailed response...",
+      "years_prediction": N
+    }
+  ]
+}
+```
 
 ## Forecasting Question
 

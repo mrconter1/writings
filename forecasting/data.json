@@ -1,0 +1,34 @@
+{
+  "participants": [
+    {
+      "date_of_interview": "2025-03-09",
+      "first_name": "Mattias",
+      "birth_year": 1998,
+      "gender": "Male",
+      "occupation_profession": "Automation",
+      "education": "Automation Engineer",
+      "response": "He feels like cost is the primary obstacle to adoption. He believes the high price will significantly delay widespread implementation. Drawing parallels to industrial ABB robots with similar technology, he estimates it will take until 2045 (20 years from now), though he acknowledges the core technology might be developed earlier.",
+      "years_prediction": 20
+    },
+    {
+      "date_of_interview": "2025-03-09",
+      "first_name": "Rasmus",
+      "birth_year": 1996,
+      "gender": "Male",
+      "occupation_profession": "Software Engineering",
+      "education": "Master's in Computer Science",
+      "response": "He feels like the hardware is mostly available already, and the key ingredients for intelligence (transformer/GPT architecture) have been created. He believes it's simply about collecting or simulating more data. Regarding costs, he thinks these robots might be expensive but not as costly as today's industrial robots—perhaps two or three times the average salary. He also notes that societal incentives would be strong, especially given aging populations, which could accelerate adoption. He estimates it will take about 15 years from now to reach this point.",
+      "years_prediction": 15
+    },
+    {
+      "date_of_interview": "2025-03-09",
+      "first_name": "Johnny",
+      "birth_year": 1963,
+      "gender": "Male",
+      "occupation_profession": "B2B Sales, Industrial Worker",
+      "education": "None",
+      "response": "He feels like tuning the guitar would be the easiest task, while changing bedclothes would be more difficult (tucking in sheets, etc.). He thinks preparing salmon shouldn't be too hard (the robot could check defrosting times online, as the information is readily available). He notes that ChatGPT already understands everything he says today. Assuming global leaders don't disrupt progress, and development continues as it has been, he estimates it will take about 15 years. He also mentions concerns about human contact diminishing for a while.",
+      "years_prediction": 15
+    }
+  ]
+} 
