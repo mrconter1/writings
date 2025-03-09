@@ -16,7 +16,7 @@ All collected data will be stored in `data.json`.
 
 ## Forecasting Question
 
-When do you think you'll reach a point where seeing a humanoid robot performing everyday tasks in a regular home no longer surprises you, and you naturally expect it to perform at an average human level when you ask it to do things like the following:
+How many years do you think it will take until you reach a point where seeing a humanoid robot performing everyday tasks in a regular home no longer surprises you, and you naturally expect it to perform at an average human level when you ask it to do things like the following:
 
 - [Example 1]
 - [Example 2]
