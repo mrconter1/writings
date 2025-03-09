@@ -4,7 +4,7 @@ This project aims to forecast societal expectations regarding humanoid robots pe
 
 ## Methodology
 
-Data will be collected through personal or phone interviews. Each participant will provide:
+Data will be collected through personal or phone interviews conducted one-on-one with each participant. Each participant will provide:
 - Date of interview
 - Birth year
 - First name
