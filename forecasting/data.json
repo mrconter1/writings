@@ -39,6 +39,16 @@
       "education": "Half way through 2-year Software Engineering program",
       "response": "He feels like we're not far from humanoid robots, referencing Boston Dynamics' robot dogs and humanoids, as well as robots with 'real' muscles. He believes connecting GPT to such a system is feasible but notes complications in making them do non-preprogrammed tasks. He predicts tech demos within five years, with first consumers getting this technology around 2035. He acknowledges first-generation products will be buggy and slower than humans, technically capable but with poor execution (like poorly chopped vegetables). He thinks tasks like wall plastering would be easier than bed-making, which requires more fine motor skills. By 2036, he believes seeing such robots would no longer be surprising. Cost remains a barrier both for innovation and consumer adoption, along with social acceptance.",
       "years_prediction": 11
+    },
+    {
+      "date_of_interview": "2025-03-10",
+      "first_name": "Emil",
+      "birth_year": 1994,
+      "gender": "Male",
+      "occupation_profession": "Business and IT",
+      "education": "Civilingenjör in Business and IT",
+      "response": "He feels like Boston Dynamics' Atlas is already close to the required capability, but distinguishes between technical feasibility and consumer adoption. He identifies safety and legal aspects as the main barriers, similar to self-driving cars. He believes we might see these robots in public spaces around 2030, noting material costs (titanium and aluminum) as a challenge for consumer versions. He mentions that specialized AI robots for home use already exist but aren't general-purpose. He feels a growing techno-skepticism and suggests that after seeing such robots 2-3 times, they would no longer be surprising to him.",
+      "years_prediction": 5
     }
   ]
 } 
