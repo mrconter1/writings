@@ -49,6 +49,16 @@
       "education": "Civilingenjör in Business and IT",
       "response": "He feels like Boston Dynamics' Atlas is already close to the required capability, but distinguishes between technical feasibility and consumer adoption. He identifies safety and legal aspects as the main barriers, similar to self-driving cars. He believes we might see these robots in public spaces around 2030, noting material costs (titanium and aluminum) as a challenge for consumer versions. He mentions that specialized AI robots for home use already exist but aren't general-purpose. He feels a growing techno-skepticism and suggests that after seeing such robots 2-3 times, they would no longer be surprising to him.",
       "years_prediction": 5
+    },
+    {
+      "date_of_interview": "2025-03-12",
+      "first_name": "Sophia",
+      "birth_year": 1997,
+      "gender": "Female",
+      "occupation_profession": "Architecture",
+      "education": "Arkitektutbildning",
+      "response": "She feels it's very difficult to estimate a timeframe. She thinks wall plastering would be especially challenging for robots. Guitar tuning would also be difficult, though tuning should be easier. Dusting the piano should be relatively simple. She estimates it will take about 20 years. She reflects on how such technology might make people lazier, noting she's already experiencing this effect with ChatGPT. She mentions she would still prefer to do some tasks herself, like painting, but fears she might become too reliant on automation.",
+      "years_prediction": 20
     }
   ]
 } 
