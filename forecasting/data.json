@@ -59,6 +59,16 @@
       "education": "Arkitektutbildning",
       "response": "She feels it's very difficult to estimate a timeframe. She thinks wall plastering would be especially challenging for robots. Guitar tuning would also be difficult, though tuning should be easier. Dusting the piano should be relatively simple. She estimates it will take about 20 years. She reflects on how such technology might make people lazier, noting she's already experiencing this effect with ChatGPT. She mentions she would still prefer to do some tasks herself, like painting, but fears she might become too reliant on automation.",
       "years_prediction": 20
+    },
+    {
+      "date_of_interview": "2025-05-20",
+      "first_name": "Marcus",
+      "birth_year": 1996,
+      "gender": "Male",
+      "occupation_profession": "Marketing/BI",
+      "education": "Vocational university - Marketing/BI",
+      "response": "He emphasizes that the most difficult thing for AI is understanding human practical judgment and common sense. He gives examples like 'How much should I salt?' when cooking, or how much water to give plants - tasks that seem simple but require intuitive understanding that humans develop through experience. He believes that while robots might be able to handle technical tasks like flipping salmon or other mechanical cooking processes, the nuanced decision-making involved in everyday tasks will be much harder to master. Based on these considerations about the complexity of human practical wisdom, he estimates it will take 35 years.",
+      "years_prediction": 35
     }
   ]
 } 
